@@ -1,0 +1,12 @@
+sweep solver=online_rollout_undo target=L1  (3/11 solved so far)
+    g50t: NOT_SOLVED   22.0s  g50t: solved=False  steps=48  committed-path=0  states=25  edges=73  level-up-probes=0
+    ka59: NOT_SOLVED   65.1s  ka59: solved=False  steps=146  committed-path=0  states=74  edges=2260  level-up-probes=0
+    r11l: SOLVED        6.2s  r11l: solved=True  steps=3  committed-path=4  states=73  edges=172  level-up-probes=1
+    s5i5: NOT_SOLVED   34.5s  s5i5: solved=False  steps=70  committed-path=0  states=36  edges=607  level-up-probes=0
+    sb26: TIMEOUT     600.0s  
+    su15: SOLVED       12.2s  su15: solved=True  steps=10  committed-path=11  states=21  edges=31  level-up-probes=1
+    tn36: NOT_SOLVED   36.2s  tn36: solved=False  steps=14  committed-path=0  states=8  edges=24  level-up-probes=0
+    ft09: SOLVED      401.1s  ft09: solved=True  steps=79  committed-path=60  states=227  edges=1646  level-up-probes=1
+    lf52: NOT_SOLVED   17.4s  lf52: solved=False  steps=16  committed-path=0  states=9  edges=334  level-up-probes=0
+    sc25: NOT_SOLVED    3.4s  sc25: solved=False  steps=0  committed-path=0  states=1  edges=0  level-up-probes=0
+    vc33: NOT_SOLVED    4.7s  vc33: solved=False  steps=6  committed-path=0  states=4  edges=4  level-up-probes=0

@@ -1,0 +1,7 @@
+# caches & artifacts (data/weights — not source)
+checkpoints/
+runs/
+*.pt
+*.npz
+__pycache__/
+*.pyc

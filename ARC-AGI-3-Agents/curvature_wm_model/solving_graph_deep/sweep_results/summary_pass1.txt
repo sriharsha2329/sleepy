@@ -1,0 +1,26 @@
+sweep solver=online_rollout_undo target=L1  (9/25 solved so far)
+    ar25: SOLVED       78.4s  ar25: solved=True  steps=135  committed-path=115  states=198  edges=562  level-up-probes=1
+    bp35: SOLVED      120.5s  bp35: solved=True  steps=36  committed-path=37  states=136  edges=168  level-up-probes=1
+    cd82: SOLVED        2.4s  cd82: solved=True  steps=4  committed-path=5  states=11  edges=13  level-up-probes=1
+    cn04: TIMEOUT     420.0s  
+    dc22: SOLVED       15.4s  dc22: solved=True  steps=53  committed-path=54  states=106  edges=230  level-up-probes=1
+    ft09: NOT_SOLVED    2.0s  ft09: solved=False  steps=0  committed-path=0  states=1  edges=0  level-up-probes=0
+    g50t: NOT_SOLVED    5.1s  g50t: solved=False  steps=48  committed-path=0  states=25  edges=73  level-up-probes=0
+    ka59: NOT_SOLVED    8.7s  ka59: solved=False  steps=141  committed-path=0  states=74  edges=268  level-up-probes=0
+    lf52: NOT_SOLVED    2.5s  lf52: solved=False  steps=0  committed-path=0  states=1  edges=0  level-up-probes=0
+    lp85: SOLVED        2.9s  lp85: solved=True  steps=4  committed-path=5  states=7  edges=9  level-up-probes=1
+    ls20: SOLVED       30.7s  ls20: solved=True  steps=171  committed-path=17  states=110  edges=275  level-up-probes=1
+    m0r0: SOLVED       17.2s  m0r0: solved=True  steps=91  committed-path=82  states=135  edges=305  level-up-probes=1
+    r11l: NOT_SOLVED    2.6s  r11l: solved=False  steps=24  committed-path=0  states=13  edges=23  level-up-probes=0
+    re86: TIMEOUT     420.0s  
+    s5i5: NOT_SOLVED    5.1s  s5i5: solved=False  steps=68  committed-path=0  states=35  edges=84  level-up-probes=0
+    sb26: NOT_SOLVED   14.5s  sb26: solved=False  steps=128  committed-path=0  states=65  edges=64  level-up-probes=0
+    sc25: NOT_SOLVED    2.2s  sc25: solved=False  steps=0  committed-path=0  states=1  edges=0  level-up-probes=0
+    sk48: TIMEOUT     420.0s  
+    sp80: SOLVED        5.0s  sp80: solved=True  steps=56  committed-path=23  states=58  edges=143  level-up-probes=1
+    su15: NOT_SOLVED    2.4s  su15: solved=False  steps=0  committed-path=0  states=1  edges=0  level-up-probes=0
+    tn36: NOT_SOLVED    2.4s  tn36: solved=False  steps=0  committed-path=0  states=1  edges=0  level-up-probes=0
+    tr87: TIMEOUT     420.0s  
+    tu93: SOLVED        7.9s  tu93: solved=True  steps=63  committed-path=26  states=53  edges=151  level-up-probes=1
+    vc33: NOT_SOLVED    2.2s  vc33: solved=False  steps=6  committed-path=0  states=4  edges=4  level-up-probes=0
+    wa30: TIMEOUT     420.0s  

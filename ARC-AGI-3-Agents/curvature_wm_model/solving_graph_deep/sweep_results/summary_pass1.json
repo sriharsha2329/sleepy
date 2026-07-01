@@ -1,0 +1,127 @@
+{
+  "ar25": {
+    "status": "SOLVED",
+    "summary": "ar25: solved=True  steps=135  committed-path=115  states=198  edges=562  level-up-probes=1",
+    "sec": 78.4
+  },
+  "bp35": {
+    "status": "SOLVED",
+    "summary": "bp35: solved=True  steps=36  committed-path=37  states=136  edges=168  level-up-probes=1",
+    "sec": 120.5
+  },
+  "cd82": {
+    "status": "SOLVED",
+    "summary": "cd82: solved=True  steps=4  committed-path=5  states=11  edges=13  level-up-probes=1",
+    "sec": 2.4
+  },
+  "cn04": {
+    "status": "TIMEOUT",
+    "summary": "",
+    "sec": 420.0
+  },
+  "dc22": {
+    "status": "SOLVED",
+    "summary": "dc22: solved=True  steps=53  committed-path=54  states=106  edges=230  level-up-probes=1",
+    "sec": 15.4
+  },
+  "ft09": {
+    "status": "NOT_SOLVED",
+    "summary": "ft09: solved=False  steps=0  committed-path=0  states=1  edges=0  level-up-probes=0",
+    "sec": 2.0
+  },
+  "g50t": {
+    "status": "NOT_SOLVED",
+    "summary": "g50t: solved=False  steps=48  committed-path=0  states=25  edges=73  level-up-probes=0",
+    "sec": 5.1
+  },
+  "ka59": {
+    "status": "NOT_SOLVED",
+    "summary": "ka59: solved=False  steps=141  committed-path=0  states=74  edges=268  level-up-probes=0",
+    "sec": 8.7
+  },
+  "lf52": {
+    "status": "NOT_SOLVED",
+    "summary": "lf52: solved=False  steps=0  committed-path=0  states=1  edges=0  level-up-probes=0",
+    "sec": 2.5
+  },
+  "lp85": {
+    "status": "SOLVED",
+    "summary": "lp85: solved=True  steps=4  committed-path=5  states=7  edges=9  level-up-probes=1",
+    "sec": 2.9
+  },
+  "ls20": {
+    "status": "SOLVED",
+    "summary": "ls20: solved=True  steps=171  committed-path=17  states=110  edges=275  level-up-probes=1",
+    "sec": 30.7
+  },
+  "m0r0": {
+    "status": "SOLVED",
+    "summary": "m0r0: solved=True  steps=91  committed-path=82  states=135  edges=305  level-up-probes=1",
+    "sec": 17.2
+  },
+  "r11l": {
+    "status": "NOT_SOLVED",
+    "summary": "r11l: solved=False  steps=24  committed-path=0  states=13  edges=23  level-up-probes=0",
+    "sec": 2.6
+  },
+  "re86": {
+    "status": "TIMEOUT",
+    "summary": "",
+    "sec": 420.0
+  },
+  "s5i5": {
+    "status": "NOT_SOLVED",
+    "summary": "s5i5: solved=False  steps=68  committed-path=0  states=35  edges=84  level-up-probes=0",
+    "sec": 5.1
+  },
+  "sb26": {
+    "status": "NOT_SOLVED",
+    "summary": "sb26: solved=False  steps=128  committed-path=0  states=65  edges=64  level-up-probes=0",
+    "sec": 14.5
+  },
+  "sc25": {
+    "status": "NOT_SOLVED",
+    "summary": "sc25: solved=False  steps=0  committed-path=0  states=1  edges=0  level-up-probes=0",
+    "sec": 2.2
+  },
+  "sk48": {
+    "status": "TIMEOUT",
+    "summary": "",
+    "sec": 420.0
+  },
+  "sp80": {
+    "status": "SOLVED",
+    "summary": "sp80: solved=True  steps=56  committed-path=23  states=58  edges=143  level-up-probes=1",
+    "sec": 5.0
+  },
+  "su15": {
+    "status": "NOT_SOLVED",
+    "summary": "su15: solved=False  steps=0  committed-path=0  states=1  edges=0  level-up-probes=0",
+    "sec": 2.4
+  },
+  "tn36": {
+    "status": "NOT_SOLVED",
+    "summary": "tn36: solved=False  steps=0  committed-path=0  states=1  edges=0  level-up-probes=0",
+    "sec": 2.4
+  },
+  "tr87": {
+    "status": "TIMEOUT",
+    "summary": "",
+    "sec": 420.0
+  },
+  "tu93": {
+    "status": "SOLVED",
+    "summary": "tu93: solved=True  steps=63  committed-path=26  states=53  edges=151  level-up-probes=1",
+    "sec": 7.9
+  },
+  "vc33": {
+    "status": "NOT_SOLVED",
+    "summary": "vc33: solved=False  steps=6  committed-path=0  states=4  edges=4  level-up-probes=0",
+    "sec": 2.2
+  },
+  "wa30": {
+    "status": "TIMEOUT",
+    "summary": "",
+    "sec": 420.0
+  }
+}
